@@ -1,2 +1,3 @@
 # tonmpan-repo
-testing
+
+This is Tonmppa's first git repo for testing purposes.
